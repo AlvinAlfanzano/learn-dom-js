@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+.pokemon {
+  display: inline-block;
+  text-align: center;
+}
+.pokemon img {
+  display: block;
+}
